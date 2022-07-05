@@ -3,3 +3,5 @@ dimen/other.xml
 .idea
 .vscode
 git/*.txt
+.env
+**/__pycache__

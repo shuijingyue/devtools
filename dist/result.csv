@@ -1,0 +1,70 @@
+subject,link,owner
+[BugFix]修改卸载监听规则,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2239745,王新朋
+[BugFix][shortcut]更改快捷功能背景色,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2239649,王新朋
+[BugFix]stock&shortcut UI微调,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2235756,王新朋
+[BugFix][shortcut]修复通过cta后不拉取配置问题,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2239457,王新朋
+[Bugfix] Picker Pad 卡片阴影异常修复,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2237495,李伟锦
+[Bugfix][shortcut]pad不再设置页面高斯模糊背景,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2237506,王新朋
+[BugFix]修复Maml编辑页在大字体下文案重叠问题,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2237282,李元录
+[BugFix]修复详情页网络请求返回后偶现FC,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2234253,李元录
+[BugFix]优化屏手势退出picker时动效不连贯的问题,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2234282,丰宗伟
+[BugFix]Maml编辑页UI调整,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2228346,李元录
+[Bugfix]维语状态下没有智能助理设置页,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2228218,铁恩凯
+[Bugfix]设置-桌面-智能助理两边间距不对,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2226888,铁恩凯
+[BugFix]Maml编辑页折叠时重新加载部分内容,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2226970,李元录
+[BugFix] 修复小部件添加限制文案兼容设备问题,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2226010,亓春杰
+[BugFix][shortcut]避免内存泄漏,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2223364,王新朋
+[BugFix]修正文案,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2223359,王新朋
+[BugFix]修复股票&快捷rtl问题,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2217767,王新朋
+[BugFix]小部件商店主题未授权toast始终居中与内容区域,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2215004,丰宗伟
+[Bugfix]升级版本号到5.3.62-0624,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2214832,铁恩凯
+[Bugfix]修复快递偶现空白卡片问题,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2214219,王敏航
+[BugFix]修复导航栏子项无障碍播报信息错误问题,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2213600,张瑜寒
+[BugFix]修正是否支持预览模式逻辑,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2213870,王新朋
+[Bugfix]设计提出的UI调整,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2198512,铁恩凯
+[BugFix][shortcut]修复更新已添加的widget逻辑,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2209441,王新朋
+[BugFix]picker启动时偶现FC修复,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2207823,丰宗伟
+[Bugfix] 大 banner 图片裁切修复,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2206900,李伟锦
+[BugFix][stock]修复搜索出现的FC问题,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2205699,王新朋
+[BugFix] 修复componentName参数值错误问题,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2201786,张瑜寒
+"[BigFix] 修复1x2,2x1卡片未上报component_style_size字段问题",https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2199993,张瑜寒
+[BigFix] 修复内屏首页点击搜索框没有打点,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2198919,张瑜寒
+[BugFix]导航页Viewmodel FC修复,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2199545,丰宗伟
+[Bugfix]升级版本号到5.3.62-0618,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2198972,铁恩凯
+[BugFix]删除多余的布局文件,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2198962,王新朋
+[BugFix][stock]widget布局自适应,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2198848,王新朋
+[BugFix]L81A资源调整,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2198828,王新朋
+"Revert ""[Feature]stock & shortcut埋点增加参数""",https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2196051,王新朋
+[Feature]stock & shortcut埋点增加参数,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2195686,王新朋
+[BugFix][stock]修复第一次进入二级页不上报open事件,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2195691,王新朋
+[Feature]快捷功能广告埋点,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2195690,王新朋
+[BugFix]修复股票埋点问题,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2195689,王新朋
+[BugFix][stock]修正股票埋点参数,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2195688,王新朋
+[BugFix]修复导航Fragment偶现FC,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2195602,丰宗伟
+[Bugfix]跳转到外部Activity导致RuntimeException,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2194284,铁恩凯
+[Bugfix]修复快递卡片出现空白问题,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2192683,王敏航
+[BugFix]修复点击导航其他item时推荐icon消失的问题,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2191080,丰宗伟
+[BugFix]修复Maml编辑页导航栏颜色问题,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2190467,李元录
+[BugFix]修复Maml编辑页圆角问题,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2190043,李元录
+[BugFix] 修复搜索内屏偶现图片混乱问题,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2188345,亓春杰
+[Feature]优化导航推荐icon圆角锯齿问题,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2187157,丰宗伟
+[BugFix]修正应用建议更新逻辑,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2187118,王新朋
+[Bugfix]onReceive耗时更改,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2186016,铁恩凯
+[BugFix]修改Picker加载框背景颜色,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2186500,李元录
+[BigFix] 修复导航栏经典组件曝光不上报问题,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2186452,张瑜寒
+[BugFix]修复Picker详情页滑动页面抖动问题,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2185608,李元录
+[BugFix] 修复已安装应用maml，未上报安装状态,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2179864,张瑜寒
+[BugFix] 修复picker重构埋点手机相关问题Part2,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2179896,张瑜寒
+[BugFix] 修复picker重构埋点手机相关问题,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2179892,张瑜寒
+[Feature] Picker详情页埋点重构&新增导航栏打开来源参数,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2135426,张瑜寒
+[BugFix]在picker中长按小部件卡顿修复,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2178846,丰宗伟
+[BugFix] 修复小部件添加限制提示文案样式问题,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2178537,亓春杰
+[Bugfix]onReceive耗时,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2174442,铁恩凯
+[BugFix] 修复搜索内外屏内容图标资源不一致问题,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2173522,亓春杰
+[BugFix] 补充loading优化的遗漏导入,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2173511,亓春杰
+[Feature] Loading位置优化,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2173506,亓春杰
+[Bugfix]L81A UI走查修复,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2161390,铁恩凯
+"Revert ""[Feature] Push 拉起小部件商店、埋点、切正式包名""",https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2165473,李伟锦
+[BugFix][shortcut]避免绑定数据偶现的FC,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2161842,王新朋
+[Bugfix]修复快递预览模式下多选退出多选框未消失问题,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2160681,王敏航
+[BugFix]更换导航栏推荐icon图标资源,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2159694,丰宗伟
