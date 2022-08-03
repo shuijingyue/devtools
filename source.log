@@ -1,0 +1,335 @@
+[BugFix][MIUI14][L18] 修复UI走查的问题|||qichunjie|||2022-08-03
+[BugFix]避免股票偶现FC|||wangxinpeng1|||2022-08-03
+Merge "[Bugfix][MIUI14] 搜索中心UI调整" into widget-alpha|||李伟锦|||2022-08-02
+[Bugfix][MIUI14] 搜索中心UI调整|||liweijin|||2022-08-02
+Merge "[Bugfix]快递二级页优化" into widget-alpha|||王敏航|||2022-08-02
+[BugFix][MIUI14]修复原地替换小部件安装状态更新不及时|||liyuanlu|||2022-08-02
+Merge "[Bugfix]修复快递登录时提示错误问题" into widget-alpha|||王敏航|||2022-08-02
+Merge "[Bugfix][MIUI14]快递卡片快递图标圆角修改" into widget-alpha|||王敏航|||2022-08-02
+Merge "[Feature][stock]接入中信" into widget-alpha|||王新朋|||2022-08-02
+[Bugfix]快递二级页优化|||wangminhang|||2022-08-02
+[Bugfix]修复快递登录时提示错误问题|||wangminhang|||2022-08-02
+Merge "[BugFix]修复广播安全漏洞" into widget-alpha|||王新朋|||2022-08-02
+[BugFix]修复广播安全漏洞|||wangxinpeng1|||2022-08-02
+[Bugfix][MIUI14] 搜索中心UI调整、偶现 fc 修复|||liweijin|||2022-08-02
+Merge "[BugFix][MIUI14]Picker推荐页Fab问题修复" into widget-alpha|||李元录|||2022-08-01
+[BugFix][MIUI14]Picker推荐页Fab问题修复|||liyuanlu|||2022-08-01
+[BugFix][Miui14][Fold] 调整分栏页， 搜索中心， 搜索结果页SearchBar, 使之保持一致|||qichunjie|||2022-08-01
+Merge "[BugFix]修复首次打开负一屏时，会自动定位到第一个不可见的maml小部件的问题" into widget-alpha|||王龙飞|||2022-07-29
+[BugFix]修复首次打开负一屏时，会自动定位到第一个不可见的maml小部件的问题|||wanglongfei1|||2022-07-29
+[BugFix]去除CTA中存储权限描述|||liyuanlu|||2022-07-29
+[Bugfix][MIUI14]快递卡片快递图标圆角修改|||wangminhang|||2022-07-29
+Merge "[BugFix][MIUI14]修复shortcut显示截断问题" into widget-alpha|||王龙飞|||2022-07-29
+[BugFix][MIUI14]修复shortcut显示截断问题|||wanglongfei1|||2022-07-29
+[BugFix] 修复详情页偶现获取AppIcon的Fc问题|||qichunjie|||2022-07-29
+[BugFix] 修复购物藏语下标题和猜你喜欢显示异常|||zhangyuhan3|||2022-07-29
+[BugFix]PackageInstallReceiver监听优化|||baiwenzhi|||2022-07-28
+[BugFix]maml 添加混淆|||baiwenzhi|||2022-07-28
+[BugFix][MIUI 14][Fold] 合入所有小部件的翻译|||qichunjie|||2022-07-28
+[BugFix][MIUI 14][Fold] 优化Fragment通信方式， 在滑动筛选页和详情页时关闭软键盘|||qichunjie|||2022-07-28
+Merge "[BugFix][MIUI14]L18 UI问题修复" into widget-alpha|||李元录|||2022-07-28
+[BugFix][MIUI14]L18 UI问题修复|||liyuanlu|||2022-07-28
+Merge "[BugFix][MIUI 14][Fold] 修复搜索结果页NullPointerException导致的fc" into widget-alpha|||亓春杰|||2022-07-28
+[BugFix][MIUI 14][Fold] 修复搜索结果页NullPointerException导致的fc|||qichunjie|||2022-07-28
+Merge "[BugFix]商店 sdk 升级" into widget-alpha|||百问之|||2022-07-28
+Merge "[BugFix][MIUI14]修复原地替换页面复用问题" into widget-alpha|||李元录|||2022-07-28
+Merge "[BugFix]同时双指长按小部件添加错误修复" into widget-alpha|||丰宗伟|||2022-07-28
+Merge "[BugFix][MIUI14]修复搜索结果清除搜索词时右侧空白页消失及导致的后续问题" into widget-alpha|||丰宗伟|||2022-07-28
+[BugFix][MIUI14]修复搜索结果清除搜索词时右侧空白页消失及导致的后续问题|||fengzongwei|||2022-07-28
+[BugFix]同时双指长按小部件添加错误修复|||fengzongwei|||2022-07-28
+Merge "[BugFix]修复特定场景下，删除小部件时，布局闪烁问题" into widget-alpha|||王龙飞|||2022-07-28
+Merge "[BugFix]禁止小部件自动获取焦点" into widget-alpha|||王龙飞|||2022-07-28
+Merge "[Bugfix][MIUI14]体育小部件体育赛事 信息增强小部件 文字颜色、字号修改" into widget-alpha|||铁恩凯|||2022-07-28
+Merge "[Bugfix]在默认字号字重的情况下切换语言为英语后体育赛事无网络的文案显示不全" into widget-alpha|||铁恩凯|||2022-07-28
+[BugFix][MIUI14]修复原地替换页面复用问题|||liyuanlu|||2022-07-27
+Merge "[BugFix]预览页面复用时更新内容区位置" into widget-alpha|||李元录|||2022-07-27
+[BugFix]预览页面复用时更新内容区位置|||liyuanlu|||2022-07-27
+Merge "[BugFix][shortcut]修复因列数更改引起的不更新问题" into widget-alpha|||王新朋|||2022-07-27
+[BugFix][shortcut]修复因列数更改引起的不更新问题|||wangxinpeng1|||2022-07-27
+Merge "[Feature][MIUI14] 折叠屏picker埋点适配" into widget-alpha|||张瑜寒|||2022-07-27
+[Feature][MIUI14] 折叠屏picker埋点适配|||zhangyuhan3|||2022-07-27
+[Feature][MIUI14]L18适配框架调整 part3|||fengzongwei|||2022-07-27
+Merge "[BugFix][MIUI14]筛选页打开筛选popupwindow时定位到选中项" into widget-alpha|||丰宗伟|||2022-07-27
+[BugFix][MIUI14]筛选页标题变更为“所有小部件”|||fengzongwei|||2022-07-27
+Merge "[BugFix]maml 能力拓展" into widget-alpha|||百问之|||2022-07-27
+[BugFix][MIUI14]筛选页打开筛选popupwindow时定位到选中项|||fengzongwei|||2022-07-27
+[BugFix]maml 能力拓展|||baiwenzhi|||2022-07-27
+[BugFix][MIUI 14][Fold] 修复跳转搜索页偶现内容区域有历史页面问题， 优化大屏搜索结果点击收起软键盘|||qichunjie|||2022-07-26
+Merge "[Bugfix]修复疫情卡片在L18内外屏切换时偶现截断问题" into widget-alpha|||王敏航|||2022-07-26
+Merge "[BugFix][MIUI14]替换小部件时对网络情况及预览图加载情况进行校验" into widget-alpha|||李元录|||2022-07-26
+[BugFix][MIUI14]替换小部件时对网络情况及预览图加载情况进行校验|||liyuanlu|||2022-07-26
+Merge "[Bugfix]修复快递输入正确验证码后，连续点击下一步出现验证失败弹窗" into widget-alpha|||王敏航|||2022-07-26
+Merge "[Bugfix]修复推荐卡片重新授权后未刷新问题" into widget-alpha|||王敏航|||2022-07-26
+[Bugfix]在默认字号字重的情况下切换语言为英语后体育赛事无网络的文案显示不全|||tieenkai1|||2022-07-26
+[Bugfix][MIUI14]快递UI调整|||wangminhang|||2022-07-26
+[Bugfix]修复快递输入正确验证码后，连续点击下一步出现验证失败弹窗|||wangminhang|||2022-07-26
+[BugFix]禁止小部件自动获取焦点|||wanglongfei1|||2022-07-26
+[Bugfix][MIUI14] UI走查修复、搜索中心热词数据保存优化|||liweijin|||2022-07-25
+[Bugfix]修复疫情卡片在L18内外屏切换时偶现截断问题|||wangminhang|||2022-07-25
+[BugFix][MIUI14]修复picker层级过多后的页面卡顿问题|||fengzongwei|||2022-07-22
+[Bugfix][MIUI14]体育小部件体育赛事 信息增强小部件 文字颜色、字号修改|||tieenkai1|||2022-07-22
+Merge "[BugFix]调整shortcut间距，适配折叠屏" into widget-alpha|||王龙飞|||2022-07-22
+[BugFix]调整shortcut间距，适配折叠屏|||wanglongfei1|||2022-07-22
+[Feature][MIUI14]筛选页适配L18 part3|||fengzongwei|||2022-07-22
+[Feature][stock]接入中信|||wangxinpeng1|||2022-07-22
+[BugFix][MIUI 14][Fold] 折叠屏上搜索结果页最后一个分割线优化|||qichunjie|||2022-07-22
+Merge "[BugFix][MIUI14]原地替换页面打开时更更新系统设置" into widget-alpha|||李元录|||2022-07-22
+[BugFix][MIUI14]原地替换页面打开时更更新系统设置|||liyuanlu|||2022-07-22
+Merge "[Feature][MIUI14]L18适配框架调整 part2" into widget-alpha|||丰宗伟|||2022-07-22
+[Feature][MIUI14]L18适配框架调整 part2|||fengzongwei|||2022-07-22
+[BugFix][MIUI 14] 修改小所有小部件选中状态处理， 优化小部件选中, 删除原小部件历史部分代码|||qichunjie|||2022-07-22
+[BugFix][MIUI 14] 修改搜索结果页的跳转， 新增返回图标参数：KEY_IS_SHOW_BACK_IMG|||qichunjie|||2022-07-22
+Merge "[Feature][MIUI14]筛选页适配L18 part2" into widget-alpha|||丰宗伟|||2022-07-22
+[BugFix][MIUI14]筛选页UI精确走查调整|||fengzongwei|||2022-07-22
+[Feature][MIUI14]筛选页适配L18 part2|||fengzongwei|||2022-07-22
+Merge "[BugFix]Picker卡片阴影调整" into widget-alpha|||李元录|||2022-07-22
+Merge "[BugFix]PAD导航栏图标圆角调整" into widget-alpha|||李元录|||2022-07-22
+[BugFix]Picker卡片阴影调整|||liyuanlu|||2022-07-22
+[BugFix] 修复埋点上报时负一屏/桌面区域错误问题|||zhangyuhan3|||2022-07-20
+[BugFix]PAD导航栏图标圆角调整|||liyuanlu|||2022-07-20
+Merge "[Bugfix]尝试修复快递搜索页偶现FC" into widget-alpha|||王敏航|||2022-07-20
+[Bugfix]尝试修复快递搜索页偶现FC|||wangminhang|||2022-07-20
+[BugFix][MIUI14]修复HomeFragment分发生命周期时FC|||liyuanlu|||2022-07-20
+Merge "[Bugfix]【体育赛事无障碍】空卡片状态下焦点无法选中卡片中间的文案" into widget-alpha|||铁恩凯|||2022-07-19
+Merge "[Bugfix] 购物卡片曝光埋点逻辑调整" into widget-alpha|||张瑜寒|||2022-07-19
+Merge "[BugFix][shortcut]使用window高斯模糊 & 统一背景色" into widget-alpha|||王新朋|||2022-07-19
+Merge "[Bugfix][MIUI14]修复快递问题" into widget-alpha|||王敏航|||2022-07-19
+[BugFix][shortcut]使用window高斯模糊 & 统一背景色|||wangxinpeng1|||2022-07-19
+[Bugfix][MIUI14]修复快递问题|||wangminhang|||2022-07-19
+[Feature][MIUI14]L18适配框架调整|||fengzongwei|||2022-07-19
+Merge "[BugFix][shortcut]修改4x2一行5列item的比例" into widget-alpha|||王新朋|||2022-07-19
+[Bugfix] 购物卡片曝光埋点逻辑调整|||zhangyuhan3|||2022-07-19
+[Feature][MIUI14]原地替换小部件筛选页适配L18|||liyuanlu|||2022-07-19
+Merge "[Feature][MIUI14] 搜索中心折叠设备适配" into widget-alpha|||李伟锦|||2022-07-19
+Merge "[Bugfix][MIUI14] 搜索中心、筛选页翻译" into widget-alpha|||李伟锦|||2022-07-19
+Merge "[Feature][MIUI14] 折叠设备 首页+Nav 状态同步，页面导航适配" into widget-alpha|||李伟锦|||2022-07-19
+[Feature][MIUI14] 搜索结果页折叠屏适配|||qichunjie|||2022-07-19
+[BugFix][shortcut]修改4x2一行5列item的比例|||wangxinpeng1|||2022-07-19
+[Bugfix][MIUI14] 搜索中心、筛选页翻译|||liweijin|||2022-07-19
+[Feature][MIUI14] 搜索中心折叠设备适配|||liweijin|||2022-07-19
+[Feature][MIUI14] 折叠设备 首页+Nav 状态同步，页面导航适配|||liweijin|||2022-07-19
+[Bugfix]【体育赛事无障碍】空卡片状态下焦点无法选中卡片中间的文案|||tieenkai1|||2022-07-19
+Merge "[Bugfix][MIUI14]快递语音无障碍适配" into widget-alpha|||王敏航|||2022-07-18
+[Bugfix][MIUI14]快递语音无障碍适配|||wangminhang|||2022-07-18
+Merge "[BugFix]无障碍talkback打开时不触发连续添加" into widget-alpha|||丰宗伟|||2022-07-18
+[BugFix]无障碍talkback打开时不触发连续添加|||fengzongwei|||2022-07-18
+Merge "[Bugfix][MIUI14] 列表页复用时重置卡片曝光" into widget-alpha|||张瑜寒|||2022-07-18
+[Bugfix]修复推荐卡片重新授权后未刷新问题|||wangminhang|||2022-07-18
+[Bugfix][MIUI14] 列表页复用时重置卡片曝光|||zhangyuhan3|||2022-07-18
+Merge "[BugFix][MIUI14]原地替换筛选页点击应用时，如果替换是maml并且当前主题未授权，则先toast提示用户进行授权" into widget-alpha|||丰宗伟|||2022-07-18
+[Feature][MIUI14]筛选页适配L18|||fengzongwei|||2022-07-18
+[BugFix][MIUI14]原地替换筛选页点击应用时，如果替换是maml并且当前主题未授权，则先toast提示用户进行授权|||fengzongwei|||2022-07-18
+[BugFix][MIUI 14]  修复分页时数据处理异常问题+ Footer显示问题|||qichunjie|||2022-07-15
+[BigFix] debug模式下开启混淆|||zhangyuhan3|||2022-07-15
+Merge "[BigFix] 修复购物埋点卡片状态上传空字符串问题" into widget-alpha|||张瑜寒|||2022-07-15
+[BugFix]修复大字体下主题授权toast展示异常|||fengzongwei|||2022-07-15
+[Feature]更新预置电池小部件资源|||wanglongfei1|||2022-07-15
+[BigFix] 修复购物埋点卡片状态上传空字符串问题|||zhangyuhan3|||2022-07-15
+[BugFix][MIUI 14]  修复在软键盘弹出的前提下， 在搜索结果页插线时， 在UsbSettingsActivity(即充电页面)会弹出软键盘问题|||qichunjie|||2022-07-15
+Merge "[Bugfix][MIUI14]体育小部件无障碍播报" into widget-alpha|||铁恩凯|||2022-07-14
+[Bugfix][MIUI14]体育小部件无障碍播报|||tieenkai1|||2022-07-14
+Merge "[BugFix][MIUI14]修复图片加载偶现FC" into widget-alpha|||李元录|||2022-07-14
+Merge "[BigFix][MIUI14] 抽取页面可见性变化时无障碍焦点屏蔽规则" into widget-alpha|||张瑜寒|||2022-07-14
+Merge "[BugFix] 修复英文下购物弹窗内容显示不全无法滑动问题" into widget-alpha|||张瑜寒|||2022-07-14
+[BugFix][MIUI14]修复图片加载偶现FC|||liyuanlu|||2022-07-14
+[BigFix][MIUI14] 抽取页面可见性变化时无障碍焦点屏蔽规则|||zhangyuhan3|||2022-07-14
+[BugFix] 购物二轮埋点测试问题修复|||zhangyuhan3|||2022-07-14
+Merge "[BugFix][MIUI14]修复推荐页上拉加载过程中返回空列表后无法继续滑动" into widget-alpha|||李元录|||2022-07-14
+[BugFix][MIUI 14]  修改加载数据不满一页时, 在分页不完全展示时不加载下一页问题|||qichunjie|||2022-07-14
+[BugFix][MIUI14] UI走查与UI设计变动修改|||qichunjie|||2022-07-14
+Merge "[Bugfix]统一全部快递页和快递搜索页输入框内文字大小和字重" into widget-alpha|||王敏航|||2022-07-14
+Merge "[BigFix] 修复横滑组卡片缺少添加成功事件参数" into widget-alpha|||张瑜寒|||2022-07-14
+Merge "[Bugifx]维语状态下赛事名字没有和游戏名字对齐" into widget-alpha|||铁恩凯|||2022-07-14
+[Bugifx]维语状态下赛事名字没有和游戏名字对齐|||tieenkai1|||2022-07-14
+Merge "[BugFix]适配360和406手机" into widget-alpha|||丰宗伟|||2022-07-14
+[BugFix][MIUI 14]  修改Search Supported Card Types叠加问题|||qichunjie|||2022-07-14
+Merge "[BugFix][MIUI14]UI走查问题修复" into widget-alpha|||李元录|||2022-07-14
+[Bugfix]统一全部快递页和快递搜索页输入框内文字大小和字重|||wangminhang|||2022-07-14
+Merge "[Bugfix][MIUI14]快递文案资源调整&翻译" into widget-alpha|||王敏航|||2022-07-14
+[BigFix] 修复横滑组卡片缺少添加成功事件参数|||zhangyuhan3|||2022-07-14
+[BugFix][MIUI14]添加到负一屏的未下载在智能助理重启后异常弹出下载提醒dialog|||fengzongwei|||2022-07-14
+[BugFix][MIUI14]UI走查问题修复|||liyuanlu|||2022-07-14
+[Bugfix][MIUI14]快递文案资源调整&翻译|||wangminhang|||2022-07-14
+Merge "[Bugfix]修复lite机型上图标和时间颜色不一致问题" into widget-alpha|||王敏航|||2022-07-14
+Merge "[Bugfix][MIUI14]MIUI14体育小部件和设计讨论后的UI修改" into widget-alpha|||铁恩凯|||2022-07-14
+[BugFix]适配360和406手机|||fengzongwei|||2022-07-14
+[Bugfix][MIUI14]MIUI14体育小部件和设计讨论后的UI修改|||tieenkai1|||2022-07-14
+[Bugfix]修复lite机型上图标和时间颜色不一致问题|||wangminhang|||2022-07-14
+Merge "[BugFix][MIUI14]返回顶部按钮无障碍修复" into widget-alpha|||李元录|||2022-07-13
+[BugFix][MIUI14]返回顶部按钮无障碍修复|||liyuanlu|||2022-07-13
+[BugFix][MIUI14]  搜索结果页请求参数(support cardTypes)新增AppSearch与SuitSearch|||qichunjie|||2022-07-13
+Merge "[Feature][MIUI14] picker埋点适配Part2" into widget-alpha|||张瑜寒|||2022-07-13
+Merge "[BugFix][MIUI14]增加筛选页筛选窗反射相关类的混淆规则" into widget-alpha|||丰宗伟|||2022-07-13
+[Feature][MIUI14] picker埋点适配Part2|||zhangyuhan3|||2022-07-13
+[BugFix][MIUI14]增加筛选页筛选窗反射相关类的混淆规则|||fengzongwei|||2022-07-13
+[BugFix][MIUI14]修复推荐页上拉加载过程中返回空列表后无法继续滑动|||liyuanlu|||2022-07-13
+[Bugfix][MIUI14] 修复可能出现的FC|||liweijin|||2022-07-13
+Merge "[Bugfix][MIUI14]必现删除体育时出现FC" into widget-alpha|||铁恩凯|||2022-07-13
+[Bugfix][MIUI14]必现删除体育时出现FC|||tieenkai1|||2022-07-12
+Merge "[BugFix]下载合规分割线添加深色模式" into widget-alpha|||百问之|||2022-07-12
+Merge "[Bugfix]修复快递二级页排序错误问题" into widget-alpha|||王敏航|||2022-07-12
+Merge "[Bugfix]修复快递在维语模式下的显示问题" into widget-alpha|||王敏航|||2022-07-12
+[BugFix][MIUI14]筛选页UI走查调整|||fengzongwei|||2022-07-12
+[Bugfix]修复快递在维语模式下的显示问题|||wangminhang|||2022-07-12
+Merge "[BugFix] 导航栏个性化标签点击tip值修改" into widget-alpha|||张瑜寒|||2022-07-12
+Merge "[BugFix]修复详情页下载合规内容重叠" into widget-alpha|||李元录|||2022-07-12
+[BugFix] 导航栏个性化标签点击tip值修改|||zhangyuhan3|||2022-07-12
+[BugFix][MIUI14]  搜索结果页无障碍问题修复|||qichunjie|||2022-07-12
+[BugFix]下载合规分割线添加深色模式|||baiwenzhi|||2022-07-12
+[Bugfix][MIUI14] 搜索中心无障碍 app 项播报修正、页面最外层布局焦点屏蔽|||liweijin|||2022-07-12
+[BugFix]修复详情页下载合规内容重叠|||liyuanlu|||2022-07-12
+[Bugfix][MIUI14] 搜索中心无障碍问题修复|||liweijin|||2022-07-12
+Merge "[Feature][MIUI14]MIUI14体育小部件" into widget-alpha|||铁恩凯|||2022-07-11
+[Feature][MIUI14]MIUI14体育小部件|||tieenkai1|||2022-07-11
+Merge "[Bugfix][MIUI14] 推荐、分类页，瀑布流页兜底图更新，搜索中心无障碍修复" into widget-alpha|||李伟锦|||2022-07-11
+[Bugfix][MIUI14] 推荐、分类页，瀑布流页兜底图更新，搜索中心无障碍修复|||liweijin|||2022-07-11
+Merge "[Bugfix][MIUI14] 修复可能出现的FC" into widget-alpha|||李伟锦|||2022-07-11
+[BugFix]修复导航栏未配置主题相关项时多显示一条分割线的问题|||fengzongwei|||2022-07-11
+Merge "[BugFix]修复栈中有详情页时频繁横竖屏切换OOM问题" into widget-alpha|||丰宗伟|||2022-07-11
+[Bugfix][MIUI14] 修复可能出现的FC|||liweijin|||2022-07-11
+[BugFix]  修复小部件点击添加没有添加限制警告提示问题|||qichunjie|||2022-07-11
+[BugFix]修复特定场景下，删除小部件时，布局闪烁问题|||wanglongfei1|||2022-07-11
+[BugFix]折叠屏无障碍模式问题修复|||wanglongfei1|||2022-07-11
+[BugFix]修复栈中有详情页时频繁横竖屏切换OOM问题|||fengzongwei|||2022-07-11
+[Bugfix]修复快递二级页排序错误问题|||wangminhang|||2022-07-11
+Merge "[BugFix][MIUI14]修复筛选页偶先数据加载失败" into widget-alpha|||丰宗伟|||2022-07-11
+Merge "[Feature][MIUI14]在负一屏触发连续添加状态时，页面先动画出屏再回弹回来" into widget-alpha|||丰宗伟|||2022-07-11
+[BugFix][stock]修复因修复无障碍带来的点击问题|||wangxinpeng1|||2022-07-09
+[Bugfix]修复快递检测已绑定手机号失败问题|||wangminhang|||2022-07-09
+Merge "[BugFix][stock]webview 下载按钮ui微调" into widget-alpha|||王新朋|||2022-07-09
+Merge "[BugFix][shortcut]避免极端情况下fragment detach引起的FC" into widget-alpha|||王新朋|||2022-07-09
+Merge "[BugFix]PAD超大小部件尺寸适配预览模式" into widget-alpha|||李元录|||2022-07-09
+[BugFix]PAD超大小部件尺寸适配预览模式|||liyuanlu|||2022-07-09
+[BugFix][shortcut]避免极端情况下fragment detach引起的FC|||wangxinpeng1|||2022-07-09
+[BugFix][stock]webview 下载按钮ui微调|||wangxinpeng1|||2022-07-08
+[BugFix]修复主题CTA未授权时详情页点击编辑和添加按钮toast位置不一致的问题|||fengzongwei|||2022-07-08
+[BugFix] 修复英文下购物弹窗内容显示不全无法滑动问题|||zhangyuhan3|||2022-07-08
+Merge "[Bugfix]修复快递绑定手机号页面深色模式下输入框反色异常问题" into widget-alpha|||王敏航|||2022-07-08
+Merge "[BugFix]Maml编辑页添加Maml根据来源执行添加动画" into widget-alpha|||李元录|||2022-07-08
+[BugFix]Maml编辑页添加Maml根据来源执行添加动画|||liyuanlu|||2022-07-08
+[BugFix] 修复空白搜索页面无障碍播报错误问题|||zhangyuhan3|||2022-07-08
+[Bugfix]修复快递绑定手机号页面深色模式下输入框反色异常问题|||wangminhang|||2022-07-08
+Merge "[BugFix]修复Maml编辑页标题方向在rtl下错误的问题" into widget-alpha|||李元录|||2022-07-08
+Merge "[BugFix]修复下载信息深色模式异常" into widget-alpha|||百问之|||2022-07-08
+[BugFix][MIUI14] 修复首页搜索入口无障碍播报缺失问题|||zhangyuhan3|||2022-07-08
+[BugFix]修复下载信息深色模式异常|||baiwenzhi|||2022-07-08
+[BugFix]修复Maml编辑页标题方向在rtl下错误的问题|||liyuanlu|||2022-07-08
+[Feature][MIUI14]在负一屏触发连续添加状态时，页面先动画出屏再回弹回来|||fengzongwei|||2022-07-08
+[BugFix][MIUI14]修复筛选页偶先数据加载失败|||fengzongwei|||2022-07-08
+Merge "[BugFix][MIUI14]修复Picker列表下拉加载更多闪烁" into widget-alpha|||李元录|||2022-07-07
+[BugFix][MIUI14]修复Picker列表下拉加载更多闪烁|||liyuanlu|||2022-07-07
+Merge "[BugFix][MIUI14]修复详情页无内容文案过小" into widget-alpha|||李元录|||2022-07-07
+[BugFix][MIUI14]修复详情页无内容文案过小|||liyuanlu|||2022-07-07
+[BugFix] 修改从搜索结果页跳转到详情页， insertCursor和ActionMode不消失问题|||qichunjie|||2022-07-07
+[BugFix] 修复当搜索处于栈底时， 在其他页面可能会弹出软键盘的问题|||qichunjie|||2022-07-07
+[BugFix][MIUI14]筛选页卡片无障碍播报文案修改|||fengzongwei|||2022-07-07
+Merge "[BugFix][MIUI14]筛选页变更筛选条件重新加载页面闪烁修复" into widget-alpha|||丰宗伟|||2022-07-07
+Merge "[BugFix][MIUI14]筛选页无数据深色适配" into widget-alpha|||丰宗伟|||2022-07-07
+Merge "[BugFix][MIUI14]筛选页弹出筛选pop时点击当前选中项直接退出pop" into widget-alpha|||丰宗伟|||2022-07-07
+Merge "[Feature][MIUI14]快递信息增强需求" into widget-alpha|||王敏航|||2022-07-07
+[BugFix][MIUI14]筛选页变更筛选条件重新加载页面闪烁修复|||fengzongwei|||2022-07-07
+[BugFix][MIUI14]筛选页无数据深色适配|||fengzongwei|||2022-07-07
+[BugFix][MIUI14]筛选页可选项popup条目无障碍语音播报修改|||fengzongwei|||2022-07-07
+[Feature][MIUI14]快递信息增强需求|||wangminhang|||2022-07-07
+[BugFix][MIUI14]筛选页弹出筛选pop时点击当前选中项直接退出pop|||fengzongwei|||2022-07-07
+Merge "[BugFix]修改versionname" into widget-alpha|||王龙飞|||2022-07-07
+[BugFix]修改versionname|||wanglongfei1|||2022-07-07
+Merge "[Bugfix][MIUI14] 修复使用无障碍调大字体后进去 Picker FC" into widget-alpha|||李伟锦|||2022-07-07
+Merge "[BugFix][MIUI14]筛选页卡片底部更换按钮无障碍播报修改" into widget-alpha|||丰宗伟|||2022-07-07
+Merge "[BugFix][MIUI14]筛选页选项无障碍播报修正" into widget-alpha|||丰宗伟|||2022-07-07
+[Bugfix][MIUI14] 修复使用无障碍调大字体后进去 Picker FC|||liweijin|||2022-07-07
+[BugFix][MIUI14]筛选页卡片底部更换按钮无障碍播报修改|||fengzongwei|||2022-07-07
+Merge "[BugFix]修复偶现负一屏view不可见的问题" into widget-alpha|||王龙飞|||2022-07-07
+[BugFix][MIUI14]筛选页选项无障碍播报修正|||fengzongwei|||2022-07-07
+[BugFix] 修改Loading状态的ProgressBar UI问题|||qichunjie|||2022-07-07
+Merge "[Feature]超大Maml编辑页预览模式内容区居中" into widget-alpha|||李元录|||2022-07-07
+[Feature]超大Maml编辑页预览模式内容区居中|||liyuanlu|||2022-07-07
+Merge "[BugFix]PAD详情页卡片大小调整" into widget-alpha|||李元录|||2022-07-07
+Merge "[BugFix][MIUI14]修复筛选页加载更多时闪烁的问题" into widget-alpha|||丰宗伟|||2022-07-06
+[BugFix][MIUI14]修复筛选页加载更多时闪烁的问题|||fengzongwei|||2022-07-06
+Merge "[Bugfix][MIUI14] 适配搜索中心空白状态深浅色模式" into widget-alpha|||李伟锦|||2022-07-06
+[BugFix][MIUI14] 修复分页刷新时， 小部件Card可能出现的闪烁问题|||qichunjie|||2022-07-06
+Merge "Revert "[Feature][MIUI14]MIUI14体育小部件"" into widget-alpha|||铁恩凯|||2022-07-06
+Merge "[BugFix]修复偶现划入负一屏时，小部件不刷新的问题" into widget-alpha|||王龙飞|||2022-07-06
+Revert "[Feature][MIUI14]MIUI14体育小部件"|||铁恩凯|||2022-07-06
+Merge "[BugFix][MIUI14]修复桌面下载中maml拖动到负一屏不下载的问题" into widget-alpha|||丰宗伟|||2022-07-06
+[BugFix][MIUI14] 修复深色模式切换后Error状态图标异常问题|||qichunjie|||2022-07-06
+[BugFix][MIUI14] 修复搜索页拖拽添加小部件时软键盘未收起问题|||qichunjie|||2022-07-06
+Merge "[BugFix]修改卸载监听规则" into widget-alpha|||王新朋|||2022-07-06
+Merge "[BugFix][shortcut]更改快捷功能背景色" into widget-alpha|||王新朋|||2022-07-06
+Merge "[BugFix][MUUI14]shortcut按钮无障碍语音播报优化" into widget-alpha|||王龙飞|||2022-07-06
+[BugFix][MUUI14]shortcut按钮无障碍语音播报优化|||wanglongfei1|||2022-07-06
+[BugFix][MIUI14]修复桌面下载中maml拖动到负一屏不下载的问题|||fengzongwei|||2022-07-06
+[Bugfix][MIUI14] 适配搜索中心空白状态深浅色模式|||liweijin|||2022-07-06
+[BugFix][shortcut]更改快捷功能背景色|||wangxinpeng1|||2022-07-06
+[BugFix]修复偶现划入负一屏时，小部件不刷新的问题|||wanglongfei1|||2022-07-06
+Merge "[BugFix][MIUI14]修复原地替换打开筛选页退出后最近任务仍可打开的问题" into widget-alpha|||丰宗伟|||2022-07-06
+[BugFix][MIUI14]修复原地替换打开筛选页退出后最近任务仍可打开的问题|||fengzongwei|||2022-07-06
+[BugFix][MIUI14]筛选页切换选项时清空上次接口返回的额外参数|||fengzongwei|||2022-07-06
+Merge "[Bugfix][shortcut]pad不再设置页面高斯模糊背景" into widget-alpha|||王新朋|||2022-07-05
+Merge "[Bugfix] Picker Pad 卡片阴影异常修复" into widget-alpha|||李伟锦|||2022-07-05
+Merge "[Bugfix][MIUI14] 修复从主题进入picker首页，点击横滑卡片【添加】无响应" into widget-alpha|||丰宗伟|||2022-07-05
+[Bugfix][shortcut]pad不再设置页面高斯模糊背景|||wangxinpeng1|||2022-07-05
+Merge "[BugFix]修复Maml编辑页在大字体下文案重叠问题" into widget-alpha|||李元录|||2022-07-05
+[BugFix][MIUI14] 修复无网络状态下搜索关键字为空时展示状态问题|||qichunjie|||2022-07-05
+[Bugfix][MIUI14] 修复从主题进入picker首页，点击横滑卡片【添加】无响应|||liweijin|||2022-07-05
+Merge "[Bugfix][MIUI14] 横滑卡片展示异常修复" into widget-alpha|||李伟锦|||2022-07-05
+[BugFix][MIUI14]Picker筛选页UI调整|||fengzongwei|||2022-07-05
+[Bugfix][MIUI14] 横滑卡片展示异常修复|||liweijin|||2022-07-05
+Merge "[BugFix][MIUI14]优化back退出负一屏时，shortcut消失时机" into widget-alpha|||王龙飞|||2022-07-05
+[BugFix][MIUI14]优化back退出负一屏时，shortcut消失时机|||wanglongfei1|||2022-07-05
+Merge "[BugFix][MIUI14]推荐页Fab动画调整" into widget-alpha|||李元录|||2022-07-05
+[BugFix][MIUI14] 修改多次搜索带来的历史搜索结果影响|||qichunjie|||2022-07-05
+[BugFix][MIUI14]推荐页Fab动画调整|||liyuanlu|||2022-07-05
+Merge "[BugFix]添加日志，排查未知情况下，卡片刷新异常的问题" into widget-alpha|||王龙飞|||2022-07-05
+[BugFix]添加日志，排查未知情况下，卡片刷新异常的问题|||wanglongfei1|||2022-07-05
+[BugFix][MIUI14]修复切换深色模式后，shortcut显示异常问题|||wanglongfei1|||2022-07-05
+Merge "[BugFix][MIUI14] 修复深色模式切换loading旋转速度异常问题" into widget-alpha|||亓春杰|||2022-07-04
+[BugFix][MIUI14] 根据最新的UI设计修改搜索结果页的错误状态|||qichunjie|||2022-07-04
+Merge "[Bugfix][MIUI14] Picker 搜索中心修复" into widget-alpha|||李伟锦|||2022-07-04
+[Bugfix][MIUI14] Picker 搜索中心修复|||liweijin|||2022-07-04
+[BugFix][MIUI14] 修复搜索页清空所有搜索词下方依然显示搜索结果问题|||qichunjie|||2022-07-04
+[BugFix] 修复热词超出搜索栏maxLength时导致的OutOfBounds问题|||qichunjie|||2022-07-04
+Merge "[Feature]在pad上点击picker四周透明区域可以关闭picker" into widget-alpha|||丰宗伟|||2022-07-04
+Merge "[BugFix]修复详情页网络请求返回后偶现FC" into widget-alpha|||李元录|||2022-07-04
+Merge "[BugFix]优化屏手势退出picker时动效不连贯的问题" into widget-alpha|||丰宗伟|||2022-07-04
+[Feature][MIUI14]Picker筛选页无数据UI调整|||fengzongwei|||2022-07-04
+[BugFix]优化屏手势退出picker时动效不连贯的问题|||fengzongwei|||2022-07-04
+[BugFix]修复详情页网络请求返回后偶现FC|||liyuanlu|||2022-07-04
+[BugFix][MIUI14] 修复倍率错误导致的sw411 dimens值错误问题|||qichunjie|||2022-07-01
+[BugFix][MIUI14] 修复深色模式切换loading旋转速度异常问题|||qichunjie|||2022-07-01
+Merge "[BugFix] 修复解决冲突导致包缺失问题" into widget-alpha|||张瑜寒|||2022-07-01
+[BugFix] 修复解决冲突导致包缺失问题|||zhangyuhan3|||2022-07-01
+Merge "[Bugfix]疫情卡片UI修复" into widget-alpha|||王敏航|||2022-07-01
+Merge "[Bugfix]修复推荐卡片显示2*2卡片时贴边问题" into widget-alpha|||王敏航|||2022-07-01
+Merge "[Bugfix]修复2K手机上，快递详情页时间标签显示偶现错误问题" into widget-alpha|||王敏航|||2022-07-01
+Merge "[Feature][MIUI14] picker埋点适配Part1" into widget-alpha|||张瑜寒|||2022-07-01
+[Bugfix]修复推荐卡片显示2*2卡片时贴边问题|||wangminhang|||2022-07-01
+[Feature][MIUI14] picker埋点适配Part1|||zhangyuhan3|||2022-07-01
+Merge "[BugFix][MIUI14]修复卡片复用导致全部按钮不消失" into widget-alpha|||李元录|||2022-07-01
+Merge "[BugFix][MIUI14]修复推荐页滑至最后一项FC" into widget-alpha|||李元录|||2022-07-01
+[BugFix][MIUI14]修复卡片复用导致全部按钮不消失|||liyuanlu|||2022-07-01
+[BugFix][MIUI14]修复推荐页滑至最后一项FC|||liyuanlu|||2022-07-01
+[Feature][MIUI14] 搜索结果页自测问题完善|||qichunjie|||2022-07-01
+[Bugfix]修复2K手机上，快递详情页时间标签显示偶现错误问题|||wangminhang|||2022-07-01
+[BugFix]修复偶现负一屏view不可见的问题|||wanglongfei1|||2022-07-01
+Merge "[BugFix][MIUI14]推荐页Fab调整" into widget-alpha|||李元录|||2022-07-01
+[BugFix][MIUI14]筛选页无网络时toast提示|||fengzongwei|||2022-07-01
+[BugFix][MIUI14]推荐页Fab调整|||liyuanlu|||2022-07-01
+[Bugfix][MIUI14] Picker 卡片、搜索中心UI调整|||liweijin|||2022-07-01
+[Bugfix] Picker Pad 卡片阴影异常修复|||liweijin|||2022-07-01
+[Bugfix]疫情卡片UI修复|||wangminhang|||2022-07-01
+Merge "[Bugfix]实时动态稳定版默认开关关闭" into widget-alpha|||王敏航|||2022-07-01
+Merge "[BugFix][MIUI14]原地更换小部件-shortcut布局优化" into widget-alpha|||王龙飞|||2022-07-01
+[BugFix][MIUI14]原地更换小部件-shortcut布局优化|||wanglongfei1|||2022-07-01
+[Feature][MIUI14]调整连续添加打点参数|||fengzongwei|||2022-07-01
+[BugFix]修改卸载监听规则|||wangxinpeng1|||2022-06-30
+Merge "[Bugfix]维语状态下没有智能助理设置页" into widget-alpha|||铁恩凯|||2022-06-30
+[Bugfix]实时动态稳定版默认开关关闭|||wangminhang|||2022-06-30
+Merge "[BugFix]Maml编辑页UI调整" into widget-alpha|||李元录|||2022-06-30
+[BugFix]Maml编辑页UI调整|||liyuanlu|||2022-06-30
+Merge "[Bugfix]picker入口静态图片尺寸调整" into widget-alpha|||王敏航|||2022-06-30
+[Bugfix]维语状态下没有智能助理设置页|||铁恩凯|||2022-06-30
+[BugFix]商店 sdk 升级|||baiwenzhi|||2022-06-30
+[Bugfix][MIUI14] Picker分类页 smallWidget UI修复|||liweijin|||2022-06-30
+[Bugfix]picker入口静态图片尺寸调整|||wangminhang|||2022-06-30
