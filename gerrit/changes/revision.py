@@ -8,6 +8,6 @@ def get_commit(change_id, revision_id):
     '''
     /changes/{change-id}/revisions/{revision-id}/commit'
     '''
-    respose = requests.get(f'{HOST}/a/changes/{change_id}/revisions/\
+    response = requests.get(f'{HOST}/a/changes/{change_id}/revisions/\
 {revision_id}/commit', auth=auth())
-    return resp2json(respose)
+    return resp2json(response)

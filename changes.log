@@ -1,0 +1,27 @@
+[BugFix][MIUI14]修复当前软键盘显示时，点击筛选页筛选项pop弹窗位置错误的问题|||fengzongwei
+[BugFix][MIUI14]2*1裁剪胶囊圆角问题修复|||liyuanlu
+Merge "[BugFix]离开picker时，如果不是去主题授权，那么直接退出picker" into widget-alpha|||丰宗伟
+Merge "[Build]修复下载过程中桌面删除下载中app，未下载卡片仍在loading的问题" into widget-alpha|||丰宗伟
+Merge "[BugFix]在picker页面长按添加小部件过程中锁屏，如果添加目标是负一屏则执行添加，如果添加目标是桌面则取消" into widget-alpha|||丰宗伟
+[BugFix]离开picker时，如果不是去主题授权，那么直接退出picker|||fengzongwei
+[BugFix] 修复PermissionSettings返回可能不调用onStart, 导致ProxyActivity不能及时关掉问题|||qichunjie
+Merge "[BugFix]修复特定场景下，maml小部件显示异常问题" into widget-alpha|||王龙飞
+[BugFix]修复特定场景下，maml小部件显示异常问题|||wanglongfei1
+Merge "[BugFix]修复特定场景下，拖拽导致的布局异常" into widget-alpha|||王龙飞
+Merge "[BugFix]修复已安装widget从桌面拖拽小部件到负一屏后，uniquecode丢失的问题" into widget-alpha|||王龙飞
+[BugFix] 移除曝光与小部件添加限制模块中多余的日志|||qichunjie
+Merge "[Feature] Child元素曝光兼容不完全田字格" into widget-alpha|||张瑜寒
+Merge "[Feature] 抽取并封装Child元素曝光规则" into widget-alpha|||张瑜寒
+[BugFix]配置Picker不支持小窗和分屏|||fengzongwei
+[BugFix]修复退出动画效果问题|||wangxinpeng1
+Merge "[BugFix]Lite机型无使用权限兜底" into widget-alpha|||李元录
+Merge "[BugFix][MIUI14]胶囊圆角问题修复" into widget-alpha|||李元录
+Merge "[BugFix]picker推送到达时如果处于连续添加状态则先退出连续添加状态" into widget-alpha|||丰宗伟
+Merge "[BugFix]补充被动退出连续添加状态Picker时的打点" into widget-alpha|||丰宗伟
+Merge "[BugFix] 修复search事件中股票widget数量错误问题" into widget-alpha|||张瑜寒
+[BugFix] 瀑布流页面返回时去除未加标签无障碍提示|||zhangyuhan3
+Merge "[BugFix][MIUI14]L18 二轮UI走查问题修复" into widget-alpha|||李元录
+[BugFix]补充被动退出连续添加状态Picker时的打点|||fengzongwei
+[BugFix] 修复search事件中股票widget数量错误问题|||zhangyuhan3
+[Feature] Child元素曝光兼容不完全田字格|||zhangyuhan3
+[Feature] 抽取并封装Child元素曝光规则|||qichunjie

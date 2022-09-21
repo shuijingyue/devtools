@@ -251,3 +251,17 @@ Merge "[Bugfix]picker入口静态图片尺寸调整" into widget-alpha|||王敏�
 [Bugfix]维语状态下没有智能助理设置页|||铁恩凯|||2022-06-30
 [Bugfix][MIUI14] Picker分类页 smallWidget UI修复|||liweijin|||2022-06-30
 [Bugfix]picker入口静态图片尺寸调整|||wangminhang|||2022-06-30
+Merge "[BugFix]修改更换英文翻译" into widget-alpha|||王龙飞|||2022-06-30
+[BugFix]修改更换英文翻译|||wanglongfei1|||2022-06-30
+Merge "[BugFix]修复偶现ANR" into widget-alpha|||王龙飞|||2022-06-30
+Merge "[BugFix]修复从瀑布流长按添加未下载小部件无反应" into widget-alpha|||丰宗伟|||2022-06-30
+[BugFix]Maml编辑页折叠时重新加载部分内容|||liyuanlu|||2022-06-30
+[BugFix]修复Maml编辑页在大字体下文案重叠问题|||liyuanlu|||2022-06-30
+Merge "[Bugfix]修复购物设置页返回逻辑错误问题" into widget-alpha|||张瑜寒|||2022-06-30
+Merge "[BugFix] 购物卡片新增内容翻译" into widget-alpha|||张瑜寒|||2022-06-30
+[BugFix]修复从瀑布流长按添加未下载小部件无反应|||fengzongwei|||2022-06-30
+Merge "[Feature][MIUI14]MIUI14体育小部件" into widget-alpha|||铁恩凯|||2022-06-30
+[Feature][MIUI14]MIUI14体育小部件|||铁恩凯|||2022-06-30
+Merge "[Bugfix][MIUI14] Picker 搜索中心app项大字体UI修复" into widget-alpha|||李伟锦|||2022-06-30
+Merge "[Bugfix]设置-桌面-智能助理两边间距不对" into widget-alpha|||铁恩凯|||2022-06-30
+[Bugfix][MIUI14] Picker 搜索中心app项大字体UI修复|||liweijin|||2022-06-30
