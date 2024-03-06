@@ -1,6 +1,7 @@
 import os
 import sys
 import configparser
+from requests.auth import HTTPBasicAuth
 
 _path = f'{os.environ.get("HOME")}/.happy.laborer'
 
@@ -12,7 +13,7 @@ def auth():
             parser.read(_path)
             username = parser.get('auth', 'username')
             password = parser.get('auth', 'password')
-            return username, password
+            return HTTPBasicAuth(username, password)
         except configparser.MissingSectionHeaderError:
             print('''
 please check the config file $HOME/.happy.laborer is fit the correct format

@@ -1,5 +1,0 @@
-subject,link,owner
-[Bugfix]【L18】必现在内屏时将字条调整至最大体育超过2个字的队名显示不全体验较差,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2247786,铁恩凯
-[Bugfix]修复快递检测已绑定手机号失败问题,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2249115,王敏航
-[BugFix][stock]webview 下载按钮ui微调,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2249089,王新朋
-[BugFix][shortcut]避免极端情况下fragment detach引起的FC,https://gerrit.pt.mioffice.cn/c/platform/packages/apps/PersonalAssistant/+/2249090,王新朋

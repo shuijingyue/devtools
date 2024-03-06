@@ -2,7 +2,6 @@ import sys
 import os
 from xml.etree import ElementTree
 
-
 _dimen_file = f"{os.path.dirname(__file__)}/dimen.xml"
 
 

@@ -7,9 +7,9 @@ import csv
 
 changes = query_changes(
     project="platform/packages/apps/PersonalAssistant", 
-    branch="widget-alpha-L18",
+    branch="widget-release-miui14-phone",
     status="merged",
-    after="2022-07-09")
+    after="2023-02-01")
 
 with open('dist/result.csv', 'w', newline='') as fd:
     writer = csv.writer(fd)
